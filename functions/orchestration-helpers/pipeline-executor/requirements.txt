@@ -1,5 +1,5 @@
 functions-framework==3.3.0
-google-cloud-bigquery==3.11.4
+google-cloud-bigquery==3.31.0
 google-cloud-logging
 google-cloud-error-reporting
 google-cloud-workflows
